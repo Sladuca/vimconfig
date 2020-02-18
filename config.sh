@@ -3,4 +3,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 cp ./.vimrc ~
 
+git config --global --edit
+
 
