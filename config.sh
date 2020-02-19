@@ -3,6 +3,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 cp ./.vimrc ~
 
-git config --global --edit
-
+git config --global user.name Sladuca
+git config --global user.email sladuca777@gmail.com
 
